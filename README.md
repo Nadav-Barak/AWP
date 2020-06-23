@@ -1,5 +1,5 @@
 # AWP
-This project contains the implantation of the AWP algorithm and the code used to prefomed the experiments as described in the paper "Approximating a target distribution using weight queries".
+This project contains the implantation of the AWP algorithm and the code used to prefomed the experiments as described in the paper "Approximating a Target Distribution using Weight Queries" by Nadav Barak and Sivan Sabato.
 
 1. Files and folders in archive:
 - README - this file
